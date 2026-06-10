@@ -142,7 +142,6 @@ O projeto segue o padrão **cliente-servidor com threads por conexão**:
 
 ```
 batalha_naval/
-├── README.md
 ├── Makefile
 ├── common/
 │   └── protocol.h          # Comandos e constantes do protocolo
