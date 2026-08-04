@@ -287,7 +287,7 @@ sudo apt update && sudo apt install build-essential
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/<seu-usuario>/batalha-naval.git
+git clone https://github.com/Cristiano1711/Batalha-Naval-Threads-TCP
 cd batalha-naval
 ```
 
@@ -393,7 +393,7 @@ O cliente não consulta o servidor para renderizar os tabuleiros — apenas pars
 Desenvolvido por **[Cristiano Cardoso Cavalcante Lima]**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Cristiano--Cardoso-181717?style=flat&logo=github)](https://github.com/Cristiano1711)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristiano--Cardoso-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristiano--Cardoso-0A66C2?style=flat&logo=linkedin)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/cristiano-cardoso-102806368))
 
 ---
 
