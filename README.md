@@ -393,7 +393,7 @@ O cliente não consulta o servidor para renderizar os tabuleiros — apenas pars
 Desenvolvido por **[Cristiano Cardoso Cavalcante Lima]**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Cristiano--Cardoso-181717?style=flat&logo=github)](https://github.com/Cristiano1711)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristiano--Cardoso-0A66C2?style=flat&logo=linkedin)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/cristiano-cardoso-102806368))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristiano--Cardoso-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/cristiano-cardoso-102806368)
 
 ---
 
